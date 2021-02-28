@@ -89,6 +89,7 @@ main::after {
   border-radius: 5px;
   border: 1px solid #b9b6d3;
   margin: 1rem 0;
+  text-indent: 2rem;
 }
 
 .form__info:focus {
