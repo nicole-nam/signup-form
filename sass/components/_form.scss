@@ -1,16 +1,23 @@
-.trial {
-  &__heading {
-    font-size: 1.2rem;
-    text-align: center;
-    color: $color-white;
-    padding: 2rem 7rem;
-    background-color: $color-purple;
-    border-radius: 5px;
-    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.15);
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
-    &-bold {
-      font-weight: 700;
-      font-size: 1.5rem;
-    }
+  &__info {
+    width: 100%;
+    padding: 1.5rem 1rem;
+    border-radius: 5px;
+    border: 1px solid $color-grey-blue;
+    margin: 1rem 0;
   }
+  &__btn {
+  }
+}
+
+.form-container {
+  border-radius: 5px;
+  background-color: $color-white;
+  padding: 2rem;
+  margin-top: 2rem;
+
 }
