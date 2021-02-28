@@ -127,6 +127,7 @@ main::after {
 
 .form__terms--services {
   color: #ff7a7a;
+  font-weight: 600;
 }
 
 .form-container {
