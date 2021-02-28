@@ -20,7 +20,7 @@ body {
 main {
   background: url(/images/bg-intro-mobile.png);
   height: 100vh;
-  padding: 6rem 1.6rem 5rem;
+  padding: 9rem 2rem 5rem;
 }
 
 main::after {
@@ -50,7 +50,7 @@ main::after {
 
 .about__description {
   font-weight: 400;
-  font-size: 1.4rem;
+  font-size: 1.7rem;
 }
 
 .trial__heading {
